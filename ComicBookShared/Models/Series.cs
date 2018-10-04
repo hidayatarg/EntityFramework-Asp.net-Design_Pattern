@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace ComicBookLibraryManager.Models
+namespace ComicBookShared.Models
 {
     /// <summary>
     /// Represents a comic book series.
